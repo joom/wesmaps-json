@@ -1,0 +1,13 @@
+{
+  "name": "wesmaps-json",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "scraper": "*"
+  },
+  "repository": {
+    "url": "git@github.com:joom/wesmaps-json.git",
+    "type": "git"
+  },
+  "author": "Cumhur Korkut <cumhurkorkut@gmail.com>",
+}
